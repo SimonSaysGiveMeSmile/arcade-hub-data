@@ -6,6 +6,22 @@
       }
     }
   },
-  "pending": [],
+  "pending": [
+    {
+      "id": "c_mqdeqbbewylz4",
+      "url": "https://cozy-cat-cafe.vercel.app",
+      "title": "Cat Run",
+      "sub": "Community",
+      "blurb": "Minimal endless runner where you swap between cat and meme characters mid-jump as the world shifts from day to night.",
+      "tags": [
+        "endless-runner",
+        "casual",
+        "mobile-friendly"
+      ],
+      "shot": "https://cozy-cat-cafe.vercel.app/favicon.ico",
+      "submittedAt": "2026-06-14T06:32:33.482Z",
+      "community": true
+    }
+  ],
   "published": []
 }
