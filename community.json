@@ -1,1 +1,11 @@
-{"ratings":{},"pending":[],"published":[]}
+{
+  "ratings": {
+    "Cat Run": {
+      "voters": {
+        "u_l0v7gkfyzjgmqe9lj09": 5
+      }
+    }
+  },
+  "pending": [],
+  "published": []
+}
